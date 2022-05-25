@@ -7,6 +7,7 @@
 
 Contato:
 Email: giovannimbarbieri@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/giovannimateusbarbieri/ "Giovanni Mateus Barbieri - LinkedIn")
 
 
@@ -21,4 +22,5 @@ Email: giovannimbarbieri@gmail.com
 
 Contact:
 Email: giovannimbarbieri@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/giovannimateusbarbieri/ "Giovanni Mateus Barbieri - LinkedIn")
