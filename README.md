@@ -7,7 +7,7 @@
 
 ---
 
-### Hello, my name is Giovanni!
+### Hello, my name is Giovanni! 🦊
 *He/His, They/Them*
 
 - I'm currently studying "**Analysis and Development of Systems**" at FATEC Americana.
