@@ -1,4 +1,4 @@
-### Oie, meu nome é Giovanni!
+### Oie, meu nome é Giovanni! 🦊
 *Ele/Dele*
 
 - Atualmente estudo "**Análise e Desenvolvimento de Sistemas**" na FATEC Americana.
