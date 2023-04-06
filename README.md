@@ -34,3 +34,6 @@ Email: giovannimbarbieri@gmail.com
 Email: giovannimbarbieri@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/giovannimateusbarbieri/ "Giovanni Mateus Barbieri - LinkedIn")
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giojoe10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
